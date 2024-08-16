@@ -1,0 +1,49 @@
+body {
+    background-color: blanchedalmond;
+}
+
+
+img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    padding: 0%;
+    border: 1px solid blue;
+}
+ .rahul {
+    background-color: #A9A9A9;
+ }
+
+ .edu {
+    background-color: #ADD8E6;
+ }
+
+.ww {
+    background-color: #DAA520;
+}
+.skills {
+    background-color: #FFDAB9;
+}
+.pro {
+    background-color: #87CEEB;
+}
+
+.intern h2 {
+    background-color: #A9A9A9;
+}
+
+.cc {
+    background-color: #DAA520;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+
+}
+.bb {
+    width: 100%;
+    height: 17px;
+    background-color: aqua;
+}
